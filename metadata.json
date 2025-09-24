@@ -1,0 +1,7 @@
+{
+  "name": "OutlineColor",
+  "description": "An AI-powered app to turn photos into coloring pages and artistic paintings.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
