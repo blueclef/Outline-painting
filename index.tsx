@@ -167,7 +167,7 @@ const App = () => {
     }
   };
 
-  const styles = ['Oil Painting', 'Acrylic Painting', 'Watercolor'];
+  const styles = ['Oil Painting', 'Acrylic Painting', 'Watercolor', 'Pop Art', 'Rembrandt', 'Mondrian'];
 
   return (
     <div className="min-h-screen flex flex-col items-center p-4 sm:p-6 md:p-8">
